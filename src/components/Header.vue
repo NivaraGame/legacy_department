@@ -8,18 +8,21 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <router-link to="/" class="nav-link active" aria-current="page">Home</router-link>
+            <router-link to="/" class="nav-link active" aria-current="page">Головна</router-link>
           </li>
           <li class="nav-item">
-            <router-link to="/gallery" class="nav-link">Gallery</router-link>
+            <router-link to="/" class="nav-link active" aria-current="page">Новини</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link to="/gallery" class="nav-link">Галерея</router-link>
           </li>
           <li class="nav-item dropdown">
             <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              More
+              Більше
             </a>
             <ul class="dropdown-menu">
-              <li><router-link to="/about" class="dropdown-item">About us</router-link></li>
-              <li><router-link to="/contact" class="dropdown-item">Contact us</router-link></li>
+              <li><router-link to="/about" class="dropdown-item">Про нас</router-link></li>
+              <li><router-link to="/contact" class="dropdown-item">Контакти з нами</router-link></li>
               <li><hr class="dropdown-divider"></li>
               <li><router-link to="/" class="dropdown-item">Home</router-link></li>
             </ul>

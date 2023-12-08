@@ -1,200 +1,87 @@
 <template>
-  <div class="container grid w-100 mt-3">
-    <div class="row">
-      <div class="col-sm-12">
-        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-          <div class="carousel-indicators">
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
-                    aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
-                    aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
-                    aria-label="Slide 3"></button>
-          </div>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img src="./images/img.png" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item">
-              <img src="./images/img_1.png" class="d-block w-100" alt="...">
-            </div>
-            <div class="carousel-item">
-              <img src="./images/img_2.png" class="d-block w-100" alt="...">
-            </div>
-          </div>
-          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
-                  data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-          </button>
-          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
-                  data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-          </button>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="d-flex">
-    <div id="main">
-      <div id="content">
-        <div class="box">
-          <h2><span>CATEGORY ONE</span></h2>
-          <a href="#" class="see-all">See all articles in this category</a>
-          <div class="cl">&nbsp;</div>
-          <div class="posts">
-            <div class="post">
-              <div class="image"><a href="#"><img src="./images/post-1.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></h4>
-                <p>Maecenas sodales auctor urna cursus facilisis. Cras rutrum justo id mi bibendum luctus. </p>
-              </div>
-            </div>
-            <div class="post last">
-              <div class="image"><a href="#"><img src="./images/post-2.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Maecenas scelerisque sapien </a></h4>
-                <p>Maecenas sodales auctor urna cursus facilisis. Cras rutrum justo id mi bibendum luctus. </p>
-              </div>
-            </div>
-            <div class="cl">&nbsp;</div>
-            <div class="post">
-              <div class="image"><a href="#"><img src="./images/post-3.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Cras ac ultrices ipsum. </a></h4>
-                <p>Vivamus adipiscing dui at turpis imperdiet congue. Fusce posuere augue et odio bibendum non dictum
-                  nisi
-                  posuere. </p>
-              </div>
-            </div>
-            <div class="post last">
-              <div class="image"><a href="#"><img src="./images/post-4.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Nunc ac lorem id ipsum.</a></h4>
-                <p>Maecenas sodales auctor urna cursus facilisis. Cras rutrum justo id mi bibendum luctus. </p>
-              </div>
-            </div>
-            <div class="cl">&nbsp;</div>
-          </div>
-        </div>
-        <div class="box">
-          <h2><span>CATEGORY TWO</span></h2>
-          <a href="#" class="see-all">See all articles in this category</a>
-          <div class="cl">&nbsp;</div>
-          <div class="posts">
-            <div class="post">
-              <div class="image"><a href="#"><img src="./images/post-5.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></h4>
-                <p>Maecenas sodales auctor urna cursus facilisis. Cras rutrum justo id mi bibendum luctus. </p>
-              </div>
-            </div>
-            <div class="post last">
-              <div class="image"><a href="#"><img src="./images/post-6.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Maecenas scelerisque sapien </a></h4>
-                <p>Maecenas sodales auctor urna cursus facilisis. Cras rutrum justo id mi bibendum luctus. </p>
-              </div>
-            </div>
-            <div class="cl">&nbsp;</div>
-            <div class="post">
-              <div class="image"><a href="#"><img src="./images/post-1.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Cras ac ultrices ipsum. </a></h4>
-                <p>Vivamus adipiscing dui at turpis imperdiet congue. Fusce posuere augue et odio bibendum non dictum
-                  nisi
-                  posuere. </p>
-              </div>
-            </div>
-            <div class="post last">
-              <div class="image"><a href="#"><img src="./images/post-1.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Nunc ac lorem id ipsum.</a></h4>
-                <p>Maecenas sodales auctor urna cursus facilisis. Cras rutrum justo id mi bibendum luctus. </p>
-              </div>
-            </div>
-            <div class="cl">&nbsp;</div>
-          </div>
-        </div>
-        <div class="box last">
-          <h2><span>CATEGORY THREE</span></h2>
-          <a href="#" class="see-all">See all articles in this category</a>
-          <div class="cl">&nbsp;</div>
-          <div class="posts">
-            <div class="post">
-              <div class="image"><a href="#"><img src="./images/post-7.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></h4>
-                <p>Maecenas sodales auctor urna cursus facilisis. Cras rutrum justo id mi bibendum luctus. </p>
-              </div>
-            </div>
-            <div class="post last">
-              <div class="image"><a href="#"><img src="./images/post-8.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Maecenas scelerisque sapien </a></h4>
-                <p>Maecenas sodales auctor urna cursus facilisis. Cras rutrum justo id mi bibendum luctus. </p>
-              </div>
-            </div>
-            <div class="cl">&nbsp;</div>
-            <div class="post">
-              <div class="image"><a href="#"><img src="./images/post-9.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Cras ac ultrices ipsum. </a></h4>
-                <p>Vivamus adipiscing dui at turpis imperdiet congue. Fusce posuere augue et odio bibendum non dictum
-                  nisi
-                  posuere. </p>
-              </div>
-            </div>
-            <div class="post last">
-              <div class="image"><a href="#"><img src="./images/post-10.jpg" alt=""/></a></div>
-              <div class="data">
-                <h4><a href="#">Nunc ac lorem id ipsum.</a></h4>
-                <p>Maecenas sodales auctor urna cursus facilisis. Cras rutrum justo id mi bibendum luctus. </p>
-              </div>
-            </div>
-            <div class="cl">&nbsp;</div>
-          </div>
-        </div>
-        <div class="cl">&nbsp;</div>
-      </div>
-    </div>
-    <div id="sidebar">
-      <div class="nav-box">
-        <h2><span>CATEGORIES</span></h2>
-        <ul>
-          <li><a href="#">Cras nec lorem lecturs</a></li>
-          <li><a href="#">Nunc pell entesq</a></li>
-          <li><a href="#">Lorem ipsum dolor</a></li>
-          <li><a href="#">Amet sit laoreet</a></li>
-          <li><a href="#">Lectus sit amet</a></li>
-          <li><a href="#">Pellenstesuq nunc lorem</a></li>
-        </ul>
-      </div>
-      <div class="nav-box">
-        <h2><span>ARCHIVES</span></h2>
-        <ul>
-          <li><a href="#">August 2009</a></li>
-          <li><a href="#">July 2009</a></li>
-          <li><a href="#">June 2009</a></li>
-          <li><a href="#">May 2009</a></li>
-        </ul>
-      </div>
-      <div class="nav-box">
-        <h2><span>TAGS</span></h2>
-        <ul>
-          <li><a href="#">Pellenstesque</a></li>
-          <li><a href="#">Nunc lorem</a></li>
-          <li><a href="#">Lectus sit</a></li>
-          <li><a href="#">Sit laoreet</a></li>
-          <li><a href="#">Sit amet</a></li>
-          <li><a href="#">Laoreet lectus nunc</a></li>
-        </ul>
-      </div>
-    </div>
-    <div id="banners">
-      <div class="banner"> <a href="#"><img src="./images/small-banner.gif" alt="" /></a> </div>
-      <div class="banner"> <a href="#"><img src="./images/big-banner.gif" alt="" /></a> </div>
+  <div class="home">
+    <div class="home-content">
+      <h1>
+        Департамент юридичного забезпечення Міністерства оборони України
+      </h1>
+      <p>
+        На виконання вимог пункту 2 Загального положення про юридичну службу міністерства, іншого органу виконавчої
+        влади, державного підприємства, установи та організації, затвердженого постановою Кабінету Міністрів України від
+        26 листопада 2008 року № 1040 (далі — Загальне положення про юридичну службу), відповідно до Положення про
+        Департамент юридичного забезпечення Міністерства оборони України, затвердженого наказом Міністерства оборони
+        України від 11.06.2020 № 190 у Міністерстві оборони України (далі — Міноборони) функціонує юридична служба як
+        самостійний структурний підрозділ — Департамент юридичного забезпечення Міністерства оборони України (далі —
+        Департамент), що здійснює свою діяльність у складі 5 відділів (згідно з головними напрямами діяльності юридичної
+        служби), які входять до 2 управлінь, та сектору організації представництва в судах.
+      </p>
+      <p>
+        Згідно з пунктом 5 Загального положення про юридичну службу і Схеми спрямування та координації діяльності
+        структурних підрозділів Міністерства оборони України, затвердженої наказом Міністерства оборони України від
+        22.09.2020 № 346 Департамент підпорядковується безпосередньо Міністру оборони України, який спрямовує та
+        контролює його діяльність.
+      </p>
+
+      <p>
+        Департамент є юридичною службою апарату Міністерства оборони України, що виконує завдання із забезпечення
+        реалізації державної політики з питань національної безпеки у воєнній сфері, сферах оборони і військового
+        будівництва у мирний час та особливий період та забезпечує організацію правової роботи, спрямованої на правильне
+        застосування, дотримання та запобігання невиконанню вимог законодавства України під час виконання покладених на
+        Міністерство оборони України (далі — Міноборони) завдань і функцій, а також представництва інтересів Міноборони
+        в судах та інших юрисдикційних органах.
+      </p>
+      <p>
+        Департамент є самостійним структурним підрозділом апарату Міноборони, здійснює управління підпорядкованими йому
+        територіальними юридичними підрозділами, Військово-юридичним інститутом Національного юридичного університету
+        імені Ярослава Мудрого (далі — Військово-юридичний інститут) та загальне керівництво юридичними службами системи
+        Міноборони.
+      </p>
+
+      <h1>
+        Основними завданнями Департаменту є:
+      </h1>
+      <p>
+        планування та координація законопроєктної та нормотворчої роботи Міноборони, за результатами узагальнення
+        практики застосування законодавства з питань, що належать до компетенції Міноборони, та надання керівництву
+        Міноборони пропозицій щодо вдосконалення законодавчих актів, актів Президента України і Кабінету Міністрів
+        України для внесення їх в установленому порядку на розгляд Кабінету Міністрів України та Президенту України;
+      </p>
+      <p>
+        здійснення правової роботи в апараті Міноборони, а також організація правової роботи в територіальних юридичних
+        підрозділах, Військово-юридичному інституті, частинах та організаціях безпосереднього підпорядкування
+        Міноборони, Збройних Силах України (далі — Збройні Сили), Державній спеціальній службі транспорту (далі —
+        Держспецтрансслужба) та на державних підприємствах, установах, організаціях, що належать до сфери управління
+        Міноборони;
+      </p>
+
+      <h1>Керівництво Департаменту юридичного забезпечення Міністерства оборони України</h1>
+
+      <p>
+        Тимчасово виконуючий обов’язки директора Департаменту юридичного забезпечення Міністерства оборони України
+        КАМІНЕЦЬКИЙ Олексій Валентинович, тел: 234 00 46
+      </p>
+      <p>
+        заступник директора департаменту – начальник управління нормотворчої діяльності та законодавства у сфері оборони
+        полковник юстиції ГАНКЕВИЧ Кирило Борисович, тел: 271 36 39
+      </p>
+      <p>
+        Заступник директора департаменту – начальник управління юридичного супроводження фінансово-господарської
+        діяльності Департаменту юридичного забезпечення Міністерства оборони України ГОМОН Олександр Олександрович, тел:
+        454 44 53
+      </p>
+      <p>
+        Уповноважений з гендерних питань – радник директора Департаменту юридичного забезпечення Міністерства оборони
+        України підполковник юстиції КОНЧУК Наталія Сергіївна, тел. 271 36 61
+      </p>
+      <p>
+        Номер телефону – особи для вирішення невідкладних завдань Департаменту юридичного забезпечення Міністерства
+        оборони України: 454 40 37, 231 37
+      </p>
+      <a href="https://www.mil.gov.ua/content/jur_dep/info_dovid_010422.pdf">Інформаційно-довідковий матеріал щодо стану
+        організації представництва інтересів МОУ та ЗСУ станом на 01.04.2022.</a>
+      <a href="https://www.mil.gov.ua/content/jur_dep/NPactu_2021.pdf">Перелік нормативно-правових актів, прийнятих у
+        2021 році, розробниками яких є Міністерство оборони України </a>
+      <a href="https://www.mil.gov.ua/content/jur_dep/analiz_robotu_010422.pdf">Аналіз претензійної та позовної роботи,
+        представництва інтересів в судах, виконання судових рішень у Міністерстві оборони України за 2021 рік</a>
     </div>
   </div>
 </template>
@@ -210,6 +97,21 @@ export default {
   margin: 0;
   padding: 0;
   outline: 0;
+}
+
+.home {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+
+.home-content {
+  width: 80vh;
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  gap: 20px;
 }
 
 a {
@@ -231,11 +133,13 @@ h2 {
   font-size: 14px;
   line-height: 16px;
 }
+
 h5 {
   font-size: 13px;
   line-height: 15px;
   padding-bottom: 2px;
 }
+
 .cl {
   display: block;
   height: 0;
@@ -356,6 +260,10 @@ ul {
   float: left;
   border: 1px solid #d7d7d7;
   width: 74px;
+
+  img {
+    width: 80px;
+  }
 }
 
 #content .post .image img {
@@ -510,7 +418,8 @@ h4 a {
   border-bottom: 0;
   margin-bottom: 1px;
 }
- #footer a {
+
+#footer a {
   color: #4a4a4a;
   background: #d7d7d7;
   text-decoration: none;
