@@ -318,10 +318,9 @@ ul {
   float: left;
   border: 1px solid #d7d7d7;
   width: 74px;
-
-  img {
-    width: 80px;
-  }
+}
+#content .post .image img {
+  width: 80px;
 }
 
 #content .post .image img {

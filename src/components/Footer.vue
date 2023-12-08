@@ -4,19 +4,18 @@
       <div>
         <h4 class="mb-5">MOUK</h4>
         <div style="line-height: 3px">
-          <p style="font-size: 13px">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-          <p style="font-size: 13px">Ipsum iste sunt voluptas. Cum facilis in iusto obcaecati quasi totam?</p>
+          <p style="font-size: 13px">2001—2023 Міністерство оборони України</p>
         </div>
       </div>
-      <div class="d-flex flex-column">
-        <h5>Explore</h5>
-        <router-link to="/gallery" class="text-decoration-none btn" style="color: #d2caca; margin-top:10px">Gallery</router-link>
-        <router-link to="/about" class="text-decoration-none btn" style="color: #d2caca; margin-top:10px">About us</router-link>
-        <router-link to="/contact" class="text-decoration-none btn" style="color: #d2caca; margin-top:10px">Contact us</router-link>
+      <div class="d-flex flex-column align-items-start">
+        <h5>Наігація</h5>
+        <router-link to="/gallery" class="text-decoration-none btn" style="color: #d2caca; margin-top:10px">Галерея</router-link>
+        <router-link to="/about" class="text-decoration-none btn" style="color: #d2caca; margin-top:10px">Про нас</router-link>
+        <router-link to="/contact" class="text-decoration-none btn" style="color: #d2caca; margin-top:10px">Зв'язатися з нами</router-link>
       </div>
       <div>
-        <h3 class="mb-4">Join Our Weekly Digest </h3>
-        <p style="color: #d2caca; margin-top:10px">Get exclusive promotions & updates straight to your inbox.</p>
+        <h3 class="mb-4">Задай запитання </h3>
+        <p style="color: #d2caca; margin-top:10px">Наші спеціалісти зв'яжуться з вами</p>
         <div class="input-group">
           <input class="form-control" aria-label="With textarea">
           <button type="button" class="btn btn-success">Success</button>
