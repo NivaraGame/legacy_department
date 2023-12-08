@@ -6,14 +6,14 @@
     </GoogleMap>
 
     <div style="margin-top: 80px ">
-      <h1 class="mt-5">Contact Us</h1>
-      <a href="#" style="font-size: 20px">Link our managers</a>
-      <p class="mt-3">Our numbers</p>
+      <h1 class="mt-5">Контакти з нами</h1>
+      <a href="#" style="font-size: 20px">Зв'яжіться з нашими менеджерами</a>
+      <p class="mt-3">Гаряча лінія</p>
       <div class="d-flex justify-content-between">
         <p>Kievstar:</p><a href="#" class="ml-1" style="white-space: nowrap">+380 98 883 14 88</a>
         <p class="ml-3">Life:</p><a href="#" class="ml-1" style="white-space: nowrap">+380 66 666 66 66</a>
       </div>
-      <p>Our address:</p>
+      <p>Наша адреса</p>
       <p><a href="#" style="font-size: 23px">Yeti House</a></p>
     </div>
   </div>
