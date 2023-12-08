@@ -107,7 +107,7 @@ export default {
 
 
 .home-content {
-  width: 80vh;
+  width: 90vh;
   display: flex;
   flex-direction: column;
   text-align: justify;
