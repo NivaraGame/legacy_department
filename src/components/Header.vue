@@ -32,7 +32,7 @@
                 <hr class="dropdown-divider">
               </li>
               <li>
-                <router-link to="/" class="dropdown-item">Home</router-link>
+                <router-link to="/" class="dropdown-item">Головна</router-link>
               </li>
             </ul>
           </li>
