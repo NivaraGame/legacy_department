@@ -1,0 +1,17 @@
+<template>
+  <div style="text-align: center">
+    <h1>About us</h1>
+    <p style="margin: 30px 70px 30px 70px; font-size: 19px; text-align: justify"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, distinctio, veritatis. Alias animi delectus dignissimos eaque error laudantium rerum. Alias ipsa laborum perspiciatis rerum sunt unde ut! Quis, repudiandae, sapiente.</span><span>Accusantium dolor dolorem, ex itaque natus obcaecati totam. Accusamus aperiam blanditiis corporis dicta dolor dolorem dolorum eaque eligendi eos ex exercitationem inventore nulla, placeat quaerat quidem reprehenderit sunt tempore voluptatibus!</span><span>Aliquid doloremque error expedita numquam quisquam. Aspernatur at dolores, expedita fuga, illo impedit iste laboriosam nam, nihil provident reiciendis sequi voluptates. Delectus ducimus esse incidunt rem voluptate! Consequuntur, fuga, possimus.</span><span>Ad deleniti dignissimos nemo. Asperiores eveniet excepturi facere, fuga itaque modi odio placeat quasi ratione reiciendis sapiente voluptatum! Architecto dicta doloremque ea est, excepturi explicabo fugiat harum praesentium veritatis voluptatibus!</span><span>Accusantium ad amet atque commodi cumque deserunt dolores doloribus eos explicabo illum inventore iste laboriosam magnam nobis numquam, optio perferendis praesentium quae quis ratione rem soluta sunt, vel voluptatem voluptatibus?</span><span>Doloribus est excepturi exercitationem, id illo ipsam, laudantium pariatur perferendis recusandae repudiandae sunt totam vel vero voluptatem voluptatum. Labore, nulla obcaecati. Autem cumque dignissimos, dolore doloribus exercitationem id quasi voluptatibus?</span><span>Ad assumenda consectetur dicta distinctio dolorum ea eaque, est eveniet ex exercitationem facere facilis fugit hic incidunt laudantium magnam nesciunt nihil nostrum nulla odit possimus quaerat quo sint voluptatibus voluptatum?</span><span>A ab aliquam aut autem debitis delectus dolore exercitationem in itaque iure molestias nihil non nostrum pariatur porro possimus quam quis repellat repellendus sit, tempora tempore tenetur ut veniam vitae?</span><span>Eveniet laborum odio odit velit. Architecto expedita nisi quasi quo. Consectetur eaque necessitatibus nemo quaerat repellendus tenetur? Adipisci corporis deleniti doloremque dolorum, eveniet iure mollitia odio porro reprehenderit sint unde.</span><span>Ab aliquid assumenda consectetur culpa cumque cupiditate deleniti dicta earum, eveniet expedita impedit laudantium magni modi molestias nemo nihil odio officiis pariatur perspiciatis possimus quia rerum, similique sunt totam voluptate.</span><span>Aperiam cum doloremque excepturi fuga, hic impedit ipsam laudantium molestiae nihil nisi perferendis possimus, quas quidem sit vitae. Asperiores at eos ex odio. Hic illum maiores mollitia temporibus, veritatis vero.</span><span>Amet cum dolore harum natus numquam officia, praesentium provident rerum temporibus vero voluptatem voluptates voluptatum! Alias aspernatur consequatur corporis, ducimus, enim explicabo laboriosam libero modi quas quo reiciendis rerum temporibus?</span>
+    </p>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "About"
+}
+</script>
+
+<style scoped>
+
+</style>
