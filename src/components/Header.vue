@@ -2,7 +2,8 @@
   <nav class="navbar navbar-expand-lg bg-body-tertiary w-100">
     <div class="container-fluid">
       <router-link to="/" class="navbar-brand">Dental</router-link>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -11,7 +12,7 @@
             <router-link to="/" class="nav-link active" aria-current="page">Головна</router-link>
           </li>
           <li class="nav-item">
-            <router-link to="/news" class="nav-link active" aria-current="page">Новини</router-link>
+            <router-link to="/news" class="nav-link">Новини</router-link>
           </li>
           <li class="nav-item">
             <router-link to="/gallery" class="nav-link">Галерея</router-link>
@@ -21,10 +22,18 @@
               Більше
             </a>
             <ul class="dropdown-menu">
-              <li><router-link to="/about" class="dropdown-item">Про нас</router-link></li>
-              <li><router-link to="/contact" class="dropdown-item">Контакти з нами</router-link></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><router-link to="/" class="dropdown-item">Home</router-link></li>
+              <li>
+                <router-link to="/about" class="dropdown-item">Про нас</router-link>
+              </li>
+              <li>
+                <router-link to="/contact" class="dropdown-item">Контакти з нами</router-link>
+              </li>
+              <li>
+                <hr class="dropdown-divider">
+              </li>
+              <li>
+                <router-link to="/" class="dropdown-item">Home</router-link>
+              </li>
             </ul>
           </li>
         </ul>
