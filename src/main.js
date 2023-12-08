@@ -1,7 +1,6 @@
 import {createRouter, createWebHistory} from 'vue-router'
 import App from "@/App.vue";
-import "bootstrap/dist/js/bootstrap.min.js";
-
+import 'bootstrap/dist/js/bootstrap'
 import Home from "@/components/Home.vue";
 import Gallery from "@/components/Gallery.vue";
 import About from "@/components/About.vue";
