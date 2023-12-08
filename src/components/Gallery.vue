@@ -11,7 +11,6 @@
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
                     <p class="tm-figure-description">Чекаємо від парламенту якнайшвидшого ухвалення змін</p>
-                    <a href="./images/tm-img-01.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
@@ -21,7 +20,6 @@
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
                     <p class="tm-figure-description">За добу Сили оборони знищили 990 російських загарбників</p>
-                    <a href="./images/tm-img-02.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
@@ -30,8 +28,8 @@
                   <img src="./images/92_main-v1688229591.jpg" alt="Image" class="image">
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
-                    <p class="tm-figure-description">Дякую кожній українській родині, яка розуміє воєнні й температурні виклики</p>
-                    <a href="./images/tm-img-03.jpg">View more</a>
+                    <p class="tm-figure-description">Дякую кожній українській родині, яка розуміє воєнні й температурні
+                      виклики</p>
                   </figcaption>
                 </figure>
               </div>
@@ -41,7 +39,6 @@
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
                     <p class="tm-figure-description">Міністр оборони Рустем Умєров зустрівся з командувачем ЗС США</p>
-                    <a href="./images/tm-img-04.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
@@ -51,7 +48,6 @@
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
                     <p class="tm-figure-description">Перші результати рекрутингу Міноборони</p>
-                    <a href="./images/tm-img-05.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
@@ -60,8 +56,8 @@
                   <img src="./images/image2.jpg" alt="Image" class="image">
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
-                    <p class="tm-figure-description">Естонія сповнена рішучості продовжувати підтримувати український народ</p>
-                    <a href="./images/tm-img-06.jpg">View more</a>
+                    <p class="tm-figure-description">Естонія сповнена рішучості продовжувати підтримувати український
+                      народ</p>
                   </figcaption>
                 </figure>
               </div>
@@ -71,7 +67,6 @@
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
                     <p class="tm-figure-description">«Державний оператор тилу» проводить опитування підприємців</p>
-                    <a href="./images/tm-img-07.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
@@ -81,17 +76,17 @@
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
                     <p class="tm-figure-description">Феномен волонтерства в Україні надзвичайний</p>
-                    <a href="./images/tm-img-08.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/9d675bd-325673408-868864044166839-9221036819364295974-n.jpg" alt="Image" class="image">
+                  <img src="./images/9d675bd-325673408-868864044166839-9221036819364295974-n.jpg" alt="Image"
+                       class="image">
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
-                    <p class="tm-figure-description">Представники Міноборони та ЄС обговорили довгострокові гарантії безпеки для України</p>
-                    <a href="./images/tm-img-09.jpg">View more</a>
+                    <p class="tm-figure-description">Представники Міноборони та ЄС обговорили довгострокові гарантії
+                      безпеки для України</p>
                   </figcaption>
                 </figure>
               </div>
@@ -101,7 +96,6 @@
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
                     <p class="tm-figure-description">Усім варто пам’ятати, що битва за долю України триває</p>
-                    <a href="./images/6467bd5-depositphotos-569132262-l--1-.jpeg">View more</a>
                   </figcaption>
                 </figure>
               </div>
@@ -110,8 +104,8 @@
                   <img src="./images/tm-img-11-tn.jpg" alt="Image" class="image">
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
-                    <p class="tm-figure-description">Загальні втрати російських окупантів становлять більше 332 тис. осіб</p>
-                    <a href="./images/original-photo.jpg">View more</a>
+                    <p class="tm-figure-description">Загальні втрати російських окупантів становлять більше 332 тис.
+                      осіб</p>
                   </figcaption>
                 </figure>
               </div>
@@ -121,7 +115,6 @@
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
                     <p class="tm-figure-description">Заслухав доповіді щодо постачання боєприпасів і зброї</p>
-                    <a href="./images/tm-img-12.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
@@ -130,8 +123,8 @@
                   <img src="./images/_1648119858_480x375_2_0_nw.jpeg" alt="Image" class="image">
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
-                    <p class="tm-figure-description">За добу Сили оборони знищили 1280 російських загарбників та 32 бронемашини ворога</p>
-                    <a href="./images/tm-img-13.jpg">View more</a>
+                    <p class="tm-figure-description">За добу Сили оборони знищили 1280 російських загарбників та 32
+                      бронемашини ворога</p>
                   </figcaption>
                 </figure>
               </div>
@@ -140,18 +133,20 @@
                   <img src="./images/images%20(2).jpg" alt="Image" class="image">
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
-                    <p class="tm-figure-description">Дуже важливо, щоб кількість «Пунктів незламності» в усіх областях була достатньою</p>
-                    <a href="./images/2882641.jpg">View more</a>
+                    <p class="tm-figure-description">Дуже важливо, щоб кількість «Пунктів незламності» в усіх областях
+                      була достатньою</p>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/2023-01-31-novyj-poryadok-bronyuvannya-vijskovozobov-yazanyh-roz-yasnennya-minekonomiky-800-500.jpg" alt="Image" class="image">
+                  <img
+                      src="./images/2023-01-31-novyj-poryadok-bronyuvannya-vijskovozobov-yazanyh-roz-yasnennya-minekonomiky-800-500.jpg"
+                      alt="Image" class="image">
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
-                    <p class="tm-figure-description">Готуємо хороші далекобійні речі, щоб окупанти відчували українську силу</p>
-                    <a href="./images/tm-img-15.jpg">View more</a>
+                    <p class="tm-figure-description">Готуємо хороші далекобійні речі, щоб окупанти відчували українську
+                      силу</p>
                   </figcaption>
                 </figure>
               </div>
@@ -160,8 +155,8 @@
                   <img src="./images/c9d8d0c-bumble-dee-depositphotos-1320.jpg" alt="Image" class="image">
                   <figcaption>
                     <h2 class="tm-figure-title">Новина</h2>
-                    <p class="tm-figure-description">Міністерство оборони випробовує українські безпілотні авіаційні комплекси</p>
-                    <a href="./images/tm-img-16.jpg">View more</a>
+                    <p class="tm-figure-description">Міністерство оборони випробовує українські безпілотні авіаційні
+                      комплекси</p>
                   </figcaption>
                 </figure>
               </div>
@@ -202,11 +197,27 @@ body {
   overflow-x: hidden;
 }
 
-ul { padding: 0; margin: 0; }
-figure { margin: 0; }
-p:last-child { margin-bottom: 0; }
-a { color: #3f97c9; }
-a, button { transition: all 0.3s ease; }
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+figure {
+  margin: 0;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+a {
+  color: #3f97c9;
+}
+
+a, button {
+  transition: all 0.3s ease;
+}
+
 a:hover,
 a:focus {
   text-decoration: none;
@@ -227,7 +238,9 @@ a:focus {
   padding-right: 0;
 }
 
-.cd-hero-slider .cd-full-width { padding-top: 0; }
+.cd-hero-slider .cd-full-width {
+  padding-top: 0;
+}
 
 .cd-slider-nav {
   left: 0;
@@ -237,9 +250,13 @@ a:focus {
   background: none;
 }
 
-.navbar { padding: 0; }
+.navbar {
+  padding: 0;
+}
 
-.cd-slider-nav nav { width: 100%; }
+.cd-slider-nav nav {
+  width: 100%;
+}
 
 .cd-slider-nav .navbar-nav {
   display: inline-block;
@@ -253,7 +270,10 @@ a:focus {
   width: auto;
 }
 
-.tm-navbar { float: right; }
+.tm-navbar {
+  float: right;
+}
+
 .tm-navbar-bg {
   display: -ms-flexbox;
   display: flex;
@@ -263,7 +283,7 @@ a:focus {
   justify-content: space-between;
   padding-left: 10px;
   padding-right: 10px;
-  background-color: rgba(255,255,255,0.7);
+  background-color: rgba(255, 255, 255, 0.7);
   overflow: auto;
 }
 
@@ -271,14 +291,16 @@ a:focus {
   float: right;
   font-size: 1.75rem;
   padding: 0.75rem;
-  background: rgba(255,255,255,0.7);
+  background: rgba(255, 255, 255, 0.7);
   border-radius: 0;
   position: absolute;
   right: 10px;
   top: 5px;
 }
 
-button:focus { outline: none; }
+button:focus {
+  outline: none;
+}
 
 .cd-slider-nav a.navbar-brand {
   font-size: 2.5rem;
@@ -293,9 +315,17 @@ button:focus { outline: none; }
   width: auto;
 }
 
-.cd-slider-nav a { text-transform: capitalize; }
-.navbar-nav .nav-item { float: none; }
-.navbar-nav .nav-item+.nav-item { margin-left: 0; }
+.cd-slider-nav a {
+  text-transform: capitalize;
+}
+
+.navbar-nav .nav-item {
+  float: none;
+}
+
+.navbar-nav .nav-item + .nav-item {
+  margin-left: 0;
+}
 
 .cd-slider-nav a,
 .navbar-nav .nav-link {
@@ -322,11 +352,25 @@ button:focus { outline: none; }
 }
 
 /* Background & menu colors */
-.cd-hero-slider li:nth-of-type(1) { background-color: rgba(56, 182, 230, 0.62); }
-.cd-hero-slider li:nth-of-type(2) { background-color: rgba(237, 84, 76, 0.62); }
-.cd-hero-slider li:nth-of-type(3) { background-color: rgba(234, 163, 25, 0.62); }
-.cd-hero-slider li:nth-of-type(4) { background-color: rgba(22, 181, 163, 0.62); }
-.cd-hero-slider li:nth-of-type(5) { background-color: rgba(68, 127, 202, 0.62); }
+.cd-hero-slider li:nth-of-type(1) {
+  background-color: rgba(56, 182, 230, 0.62);
+}
+
+.cd-hero-slider li:nth-of-type(2) {
+  background-color: rgba(237, 84, 76, 0.62);
+}
+
+.cd-hero-slider li:nth-of-type(3) {
+  background-color: rgba(234, 163, 25, 0.62);
+}
+
+.cd-hero-slider li:nth-of-type(4) {
+  background-color: rgba(22, 181, 163, 0.62);
+}
+
+.cd-hero-slider li:nth-of-type(5) {
+  background-color: rgba(68, 127, 202, 0.62);
+}
 
 .cd-slider-nav .nav-item:nth-of-type(1).selected .nav-link,
 .cd-slider-nav .nav-item:nth-of-type(1) .nav-link:hover,
@@ -363,8 +407,14 @@ button:focus { outline: none; }
   background-color: #447fca;
 }
 
-.tm-bg-white-translucent { background-color: rgba(255,255,255,0.8); }
-.tm-bg-white-translucent p { color: black; }
+.tm-bg-white-translucent {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.tm-bg-white-translucent p {
+  color: black;
+}
+
 .tm-textbox {
   display: inline-block;
   width: 100%;
@@ -410,7 +460,9 @@ button:focus { outline: none; }
   color: white;
 }
 
-.tm-social-link:last-child { margin-right: 0; }
+.tm-social-link:last-child {
+  margin-right: 0;
+}
 
 .tm-footer {
   position: absolute;
@@ -425,8 +477,13 @@ button:focus { outline: none; }
   padding: 0 11px 12px;
 }
 
-.tm-social-icons-container { margin-bottom: 30px; }
-.cd-hero-slider p:last-child { margin-bottom: 0; }
+.tm-social-icons-container {
+  margin-bottom: 30px;
+}
+
+.cd-hero-slider p:last-child {
+  margin-bottom: 0;
+}
 
 /* Contact */
 .tm-contact-page {
@@ -435,24 +492,42 @@ button:focus { outline: none; }
   padding: 0;
 }
 
-.tm-contact-container { max-width: 1150px; }
+.tm-contact-container {
+  max-width: 1150px;
+}
 
 .form-control,
 .tm-submit-btn {
   font-size: 1.8rem;
 }
+
 .form-control {
-  background-color: rgba(255,255,255,0.7);
+  background-color: rgba(255, 255, 255, 0.7);
   border-radius: 0;
   padding: 1rem 2rem;
 }
 
-.form-control::-webkit-input-placeholder { color: #000000; }
-.form-control:-moz-placeholder { color: #000000; } /* Firefox 18- */
-.form-control::-moz-placeholder { color: #000000; } /* Firefox 19+ */
-.form-control:-ms-input-placeholder { color: #000000; }
+.form-control::-webkit-input-placeholder {
+  color: #000000;
+}
 
-.form-group { margin-bottom: 1.5rem; }
+.form-control:-moz-placeholder {
+  color: #000000;
+}
+
+/* Firefox 18- */
+.form-control::-moz-placeholder {
+  color: #000000;
+}
+
+/* Firefox 19+ */
+.form-control:-ms-input-placeholder {
+  color: #000000;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
 
 .tm-submit-btn {
   background-color: #0066CC;
@@ -469,7 +544,9 @@ button:focus { outline: none; }
   background-color: #2277EE;
 }
 
-textarea { height: 168px; }
+textarea {
+  height: 168px;
+}
 
 /* Preloader
 	https://ihatetomatoes.net/create-custom-preloading-screen/
@@ -477,37 +554,91 @@ textarea { height: 168px; }
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-#loader-wrapper { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 2000; }
-#loader { display: block; position: relative; left: 50%; top: 50%; width: 150px; height: 150px; margin: -75px 0 0 -75px; border-radius: 50%; border: 3px solid transparent; border-top-color: #3498db; /* Chrome, Opera 15+, Safari 5+ */
-  animation: spin 2s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */ z-index: 2001; }
-#loader:before { content: ""; position: absolute; top: 5px; left: 5px; right: 5px; bottom: 5px; border-radius: 50%; border: 3px solid transparent;
+#loader-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2000;
+}
+
+#loader {
+  display: block;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border-radius: 50%;
+  border: 3px solid transparent;
+  border-top-color: #3498db; /* Chrome, Opera 15+, Safari 5+ */
+  animation: spin 2s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+  z-index: 2001;
+}
+
+#loader:before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
+  border-radius: 50%;
+  border: 3px solid transparent;
   border-top-color: #e74c3c; /* Chrome, Opera 15+, Safari 5+ */
-  animation: spin 3s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */ }
-#loader:after { content: ""; position: absolute; top: 15px; left: 15px; right: 15px; bottom: 15px; border-radius: 50%; border: 3px solid transparent;
-  border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */ }
+  animation: spin 3s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+}
+
+#loader:after {
+  content: "";
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+  border-radius: 50%;
+  border: 3px solid transparent;
+  border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */
+  animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+}
+
 @keyframes spin {
-  0%   {  /* Chrome, Opera 15+, Safari 3.1+ */  /* IE 9 */
-    transform: rotate(0deg);  /* Firefox 16+, IE 10+, Opera */
+  0% { /* Chrome, Opera 15+, Safari 3.1+ */ /* IE 9 */
+    transform: rotate(0deg); /* Firefox 16+, IE 10+, Opera */
   }
-  100% {  /* Chrome, Opera 15+, Safari 3.1+ */  /* IE 9 */
-    transform: rotate(360deg);  /* Firefox 16+, IE 10+, Opera */
+  100% { /* Chrome, Opera 15+, Safari 3.1+ */ /* IE 9 */
+    transform: rotate(360deg); /* Firefox 16+, IE 10+, Opera */
   }
 }
 
-#loader-wrapper .loader-section { position: fixed; top: 0; width: 51%; height: 100%; background: #222222; z-index: 2000;  /* Chrome, Opera 15+, Safari 3.1+ */  /* IE 9 */ transform: translateX(0);  /* Firefox 16+, IE 10+, Opera */}
+#loader-wrapper .loader-section {
+  position: fixed;
+  top: 0;
+  width: 51%;
+  height: 100%;
+  background: #222222;
+  z-index: 2000; /* Chrome, Opera 15+, Safari 3.1+ */ /* IE 9 */
+  transform: translateX(0); /* Firefox 16+, IE 10+, Opera */
+}
 
-#loader-wrapper .loader-section.section-left { left: 0; }
+#loader-wrapper .loader-section.section-left {
+  left: 0;
+}
 
-#loader-wrapper .loader-section.section-right { right: 0; }
+#loader-wrapper .loader-section.section-right {
+  right: 0;
+}
 
 /* Loaded */
-.loaded #loader-wrapper .loader-section.section-left {  /* Chrome, Opera 15+, Safari 3.1+ */  /* IE 9 */
-  transform: translateX(-100%);  /* Firefox 16+, IE 10+, Opera */
+.loaded #loader-wrapper .loader-section.section-left { /* Chrome, Opera 15+, Safari 3.1+ */ /* IE 9 */
+  transform: translateX(-100%); /* Firefox 16+, IE 10+, Opera */
   transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045, 0.355, 1.000);
 }
 
-.loaded #loader-wrapper .loader-section.section-right {  /* Chrome, Opera 15+, Safari 3.1+ */  /* IE 9 */
-  transform: translateX(100%);  /* Firefox 16+, IE 10+, Opera */
+.loaded #loader-wrapper .loader-section.section-right { /* Chrome, Opera 15+, Safari 3.1+ */ /* IE 9 */
+  transform: translateX(100%); /* Firefox 16+, IE 10+, Opera */
   transition: all 0.7s 0.3s cubic-bezier(0.645, 0.045, 0.355, 1.000);
 }
 
@@ -515,15 +646,20 @@ textarea { height: 168px; }
   opacity: 0;
   transition: all 0.3s ease-out;
 }
+
 .loaded #loader-wrapper {
-  visibility: hidden;  /* Chrome, Opera 15+, Safari 3.1+ */  /* IE 9 */
-  transform: translateY(-100%);  /* Firefox 16+, IE 10+, Opera */
+  visibility: hidden; /* Chrome, Opera 15+, Safari 3.1+ */ /* IE 9 */
+  transform: translateY(-100%); /* Firefox 16+, IE 10+, Opera */
   transition: all 0.3s 1s ease-out;
 }
 
-.cd-hero-slider .cd-full-width { text-align: left; }
+.cd-hero-slider .cd-full-width {
+  text-align: left;
+}
 
-.tm-2-col-textbox-2:last-child { margin-bottom: 0; }
+.tm-2-col-textbox-2:last-child {
+  margin-bottom: 0;
+}
 
 /* Gallery */
 .grid-item {
@@ -531,7 +667,9 @@ textarea { height: 168px; }
   width: 100%;
 }
 
-.grid-item:last-child { margin-bottom: 0; }
+.grid-item:last-child {
+  margin-bottom: 0;
+}
 
 .tm-img-gallery {
   margin: 0 auto 40px;
@@ -539,7 +677,9 @@ textarea { height: 168px; }
 }
 
 @media (min-width: 480px) {
-  .tm-img-gallery { margin: 0 auto; }
+  .tm-img-gallery {
+    margin: 0 auto;
+  }
 }
 
 .tm-img {
@@ -550,7 +690,9 @@ textarea { height: 168px; }
   margin: 0 auto;
 }
 
-.tm-textbox-padding { padding: 35px 30px; }
+.tm-textbox-padding {
+  padding: 35px 30px;
+}
 
 .cd-hero-slider h2.tm-contact-info {
   color: black;
@@ -587,12 +729,12 @@ figure.effect-sadie figcaption::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background: -webkit-linear-gradient(top, rgba(72,76,97,0) 0%, rgba(72,76,97,0.8) 75%);
-  background: linear-gradient(to bottom, rgba(72,76,97,0) 0%, rgba(72,76,97,0.8) 75%);
+  background: -webkit-linear-gradient(top, rgba(72, 76, 97, 0) 0%, rgba(72, 76, 97, 0.8) 75%);
+  background: linear-gradient(to bottom, rgba(72, 76, 97, 0) 0%, rgba(72, 76, 97, 0.8) 75%);
   content: '';
   opacity: 0;
-  -webkit-transform: translate3d(0,50%,0);
-  transform: translate3d(0,50%,0);
+  -webkit-transform: translate3d(0, 50%, 0);
+  transform: translate3d(0, 50%, 0);
 }
 
 figure.effect-sadie h2 {
@@ -605,8 +747,8 @@ figure.effect-sadie h2 {
   color: #484c61;
   -webkit-transition: -webkit-transform 0.35s, color 0.35s;
   transition: transform 0.35s, color 0.35s;
-  -webkit-transform: translate3d(0,-50%,0);
-  transform: translate3d(0,-50%,0);
+  -webkit-transform: translate3d(0, -50%, 0);
+  transform: translate3d(0, -50%, 0);
 }
 
 figure.effect-sadie figcaption::before,
@@ -622,21 +764,21 @@ figure.effect-sadie p {
   padding: 2em;
   width: 100%;
   opacity: 0;
-  -webkit-transform: translate3d(0,10px,0);
-  transform: translate3d(0,10px,0);
+  -webkit-transform: translate3d(0, 10px, 0);
+  transform: translate3d(0, 10px, 0);
 }
 
 figure.effect-sadie:hover h2 {
   color: #fff;
-  -webkit-transform: translate3d(0,-50%,0) translate3d(0,-40px,0);
-  transform: translate3d(0,-50%,0) translate3d(0,-40px,0);
+  -webkit-transform: translate3d(0, -50%, 0) translate3d(0, -40px, 0);
+  transform: translate3d(0, -50%, 0) translate3d(0, -40px, 0);
 }
 
 figure.effect-sadie:hover figcaption::before,
 figure.effect-sadie:hover p {
   opacity: 1;
-  -webkit-transform: translate3d(0,0,0);
-  transform: translate3d(0,0,0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
 }
 
 .grid-item figure figcaption, .grid-item figure figcaption > a {
@@ -673,33 +815,39 @@ figure.effect-sadie:hover p {
   opacity: 0.8;
 }
 
-.cd-hero-slider h2 { font-size: 1.5em; }
-.cd-hero-slider p.tm-figure-description { font-size: 1.2rem; }
+.cd-hero-slider h2 {
+  font-size: 1.5em;
+}
+
+.cd-hero-slider p.tm-figure-description {
+  font-size: 1.2rem;
+}
 
 .cd-hero-slider .selected .cd-full-width h2.tm-figure-title {
   margin-bottom: 0;
   color: white;
   text-shadow: 2px 2px 6px #000;
 }
+
 .cd-hero-slider .selected .cd-full-width p.tm-figure-description {
   font-weight: 600;
   font-size: 1.5rem;
   margin: 0;
   padding: 2em;
   opacity: 0;
-  -webkit-transform: translate3d(0,10px,0);
-  transform: translate3d(0,10px,0);
+  -webkit-transform: translate3d(0, 10px, 0);
+  transform: translate3d(0, 10px, 0);
 }
 
 .cd-hero-slider .selected .cd-full-width figure.effect-sadie:hover .tm-figure-title,
 .cd-hero-slider .selected .cd-full-width figure.effect-sadie:hover p.tm-figure-description {
   opacity: 1;
-  text-shadow:  2px 2px 6px #000;
+  text-shadow: 2px 2px 6px #000;
 }
 
 .cd-hero-slider .selected .cd-full-width figure.effect-sadie:hover p.tm-figure-description {
-  -webkit-transform: translate3d(0,0,0);
-  transform: translate3d(0,0,0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
 }
 
 .grid-item figure figcaption > a {
@@ -710,7 +858,10 @@ figure.effect-sadie:hover p {
   opacity: 0;
 }
 
-.tm-white-box-margin-b { margin-bottom: 30px; }
+.tm-white-box-margin-b {
+  margin-bottom: 30px;
+}
+
 .cd-full-width .container-fluid.tm-page-width {
   padding-left: 10px;
   padding-right: 10px;
@@ -719,21 +870,45 @@ figure.effect-sadie:hover p {
 /* Media Queries */
 
 @media only screen and (min-width: 400px) {
-  .cd-hero-slider h2 { font-size: 1.4em; }
-  .grid-item figure figcaption { padding: 2em; }
+  .cd-hero-slider h2 {
+    font-size: 1.4em;
+  }
+
+  .grid-item figure figcaption {
+    padding: 2em;
+  }
 }
 
 @media only screen and (min-width: 480px) {
-  .cd-hero-slider h2.tm-text-title { font-size: 1.8em; }
-  .tm-textbox-padding { padding: 30px 40px; }
-  .tm-textbox-padding-contact { padding: 30px; }
-  .grid-item { width: 50%; }
-  .grid-item figure figcaption { padding: 1.5em; }
+  .cd-hero-slider h2.tm-text-title {
+    font-size: 1.8em;
+  }
+
+  .tm-textbox-padding {
+    padding: 30px 40px;
+  }
+
+  .tm-textbox-padding-contact {
+    padding: 30px;
+  }
+
+  .grid-item {
+    width: 50%;
+  }
+
+  .grid-item figure figcaption {
+    padding: 1.5em;
+  }
 }
 
 @media only screen and (min-width: 600px) {
-  .tm-footer { padding: 50px 0px 0px 0px; }
-  .tm-copyright-text { width: auto; }
+  .tm-footer {
+    padding: 50px 0px 0px 0px;
+  }
+
+  .tm-copyright-text {
+    width: auto;
+  }
 }
 
 @media only screen and (min-width: 720px) {
@@ -742,7 +917,9 @@ figure.effect-sadie:hover p {
     flex-direction: row;
   }
 
-  .tm-copyright-text { margin-top: 0; }
+  .tm-copyright-text {
+    margin-top: 0;
+  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -758,8 +935,13 @@ figure.effect-sadie:hover p {
     width: 100%;
   }
 
-  .tm-2-col-textbox-2:last-child { margin-right: 0; }
-  .cd-full-width .container-fluid.tm-page-width { max-width: 800px; }
+  .tm-2-col-textbox-2:last-child {
+    margin-right: 0;
+  }
+
+  .cd-full-width .container-fluid.tm-page-width {
+    max-width: 800px;
+  }
 }
 
 @media only screen and (min-width: 992px) {
@@ -784,6 +966,7 @@ figure.effect-sadie:hover p {
     width: auto;
     height: auto;
   }
+
   .cd-full-width .container-fluid {
     padding-left: 0;
     padding-right: 0;
@@ -799,19 +982,37 @@ figure.effect-sadie:hover p {
     max-width: 1200px;
   }
 
-  .grid-item { width: 25%; }
-  .grid-item figure figcaption { padding: 1em; }
+  .grid-item {
+    width: 25%;
+  }
+
+  .grid-item figure figcaption {
+    padding: 1em;
+  }
 }
 
 @media only screen and (min-width: 1063px) {
-  .cd-slider-nav { top: 0; }
-  .cd-slider-nav nav { padding: 0; }
-  .tm-brand-icon { margin-right: 15px; }
-  .tm-contact-page, .tm-about-page { padding: 20px 20px 0; }
+  .cd-slider-nav {
+    top: 0;
+  }
+
+  .cd-slider-nav nav {
+    padding: 0;
+  }
+
+  .tm-brand-icon {
+    margin-right: 15px;
+  }
+
+  .tm-contact-page, .tm-about-page {
+    padding: 20px 20px 0;
+  }
+
   .cd-full-width .container-fluid.tm-page-width {
     padding-left: 30px;
     padding-right: 30px;
   }
+
   .tm-page-width {
     padding-left: 30px;
     padding-right: 30px;
@@ -819,10 +1020,21 @@ figure.effect-sadie:hover p {
 }
 
 @media only screen and (min-width: 1170px) {
-  .cd-hero-slider h2, .cd-hero-slider p { margin-bottom: 20px; }
-  .cd-hero-slider p:last-child { margin-bottom: 0; }
-  .cd-hero-slider .tm-text { font-size: 1em; }
-  .grid-item figure figcaption { padding: 2em; }
+  .cd-hero-slider h2, .cd-hero-slider p {
+    margin-bottom: 20px;
+  }
+
+  .cd-hero-slider p:last-child {
+    margin-bottom: 0;
+  }
+
+  .cd-hero-slider .tm-text {
+    font-size: 1em;
+  }
+
+  .grid-item figure figcaption {
+    padding: 2em;
+  }
 }
 
 @media only screen and (min-width: 1333px) {
