@@ -12,7 +12,7 @@
             <router-link to="/" class="nav-link active" aria-current="page">Головна</router-link>
           </li>
           <li class="nav-item">
-            <router-link to="/news" class="nav-link active">Новини</router-link>
+            <router-link to="/news" class="nav-link">Новини</router-link>
           </li>
           <li class="nav-item">
             <router-link to="/gallery" class="nav-link">Галерея</router-link>
