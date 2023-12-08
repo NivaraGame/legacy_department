@@ -1,168 +1,166 @@
 <template>
   <ul class="cd-hero-slider">
-    <!-- Page 1 Gallery One -->
     <li class="selected">
       <div class="cd-full-width">
         <div class="container-fluid js-tm-page-content" data-page-no="1" data-page-type="gallery">
           <div class="tm-img-gallery-container">
             <div class="tm-img-gallery gallery-one">
-              <!-- Gallery One pop up connected with JS code below -->
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-01-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/zsu.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>One</strong></span></h2>
-                    <p class="tm-figure-description">Set true or false in HTML script tag for this page black and white.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Чекаємо від парламенту якнайшвидшого ухвалення змін</p>
                     <a href="./images/tm-img-01.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-02-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/foto-2-12.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Two</strong></span></h2>
-                    <p class="tm-figure-description">Set true or false in HTML page line number 40 to turn on off page color.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">За добу Сили оборони знищили 990 російських загарбників</p>
                     <a href="./images/tm-img-02.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-03-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/92_main-v1688229591.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Three</strong></span></h2>
-                    <p class="tm-figure-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Дякую кожній українській родині, яка розуміє воєнні й температурні виклики</p>
                     <a href="./images/tm-img-03.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-04-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/images.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Four</strong></span></h2>
-                    <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Міністр оборони Рустем Умєров зустрівся з командувачем ЗС США</p>
                     <a href="./images/tm-img-04.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-05-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/dp_kolazh.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Five</strong></span></h2>
-                    <p class="tm-figure-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Перші результати рекрутингу Міноборони</p>
                     <a href="./images/tm-img-05.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-06-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/image2.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Six</strong></span></h2>
-                    <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Естонія сповнена рішучості продовжувати підтримувати український народ</p>
                     <a href="./images/tm-img-06.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-07-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/00034022.png" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Seven</strong></span></h2>
-                    <p class="tm-figure-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">«Державний оператор тилу» проводить опитування підприємців</p>
                     <a href="./images/tm-img-07.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-08-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/15647c7-bubbles1680.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Eight</strong></span></h2>
-                    <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Феномен волонтерства в Україні надзвичайний</p>
                     <a href="./images/tm-img-08.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-09-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/9d675bd-325673408-868864044166839-9221036819364295974-n.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Nine</strong></span></h2>
-                    <p class="tm-figure-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Представники Міноборони та ЄС обговорили довгострокові гарантії безпеки для України</p>
                     <a href="./images/tm-img-09.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-10-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/foto-3-9.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Ten</strong></span></h2>
-                    <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
-                    <a href="./images/tm-img-10.jpg">View more</a>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Усім варто пам’ятати, що битва за долю України триває</p>
+                    <a href="./images/6467bd5-depositphotos-569132262-l--1-.jpeg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-11-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/tm-img-11-tn.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Eleven</strong></span></h2>
-                    <p class="tm-figure-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <a href="./images/tm-img-11.jpg">View more</a>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Загальні втрати російських окупантів становлять більше 332 тис. осіб</p>
+                    <a href="./images/original-photo.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-12-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/images%20(1).jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Twelve</strong></span></h2>
-                    <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Заслухав доповіді щодо постачання боєприпасів і зброї</p>
                     <a href="./images/tm-img-12.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-13-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/_1648119858_480x375_2_0_nw.jpeg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Thirteen</strong></span></h2>
-                    <p class="tm-figure-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">За добу Сили оборони знищили 1280 російських загарбників та 32 бронемашини ворога</p>
                     <a href="./images/tm-img-13.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-14-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/images%20(2).jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Fourteen</strong></span></h2>
-                    <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
-                    <a href="./images/tm-img-14.jpg">View more</a>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Дуже важливо, щоб кількість «Пунктів незламності» в усіх областях була достатньою</p>
+                    <a href="./images/2882641.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-15-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/2023-01-31-novyj-poryadok-bronyuvannya-vijskovozobov-yazanyh-roz-yasnennya-minekonomiky-800-500.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Fifteen</strong></span></h2>
-                    <p class="tm-figure-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Готуємо хороші далекобійні речі, щоб окупанти відчували українську силу</p>
                     <a href="./images/tm-img-15.jpg">View more</a>
                   </figcaption>
                 </figure>
               </div>
               <div class="grid-item">
                 <figure class="effect-sadie">
-                  <img src="./images/tm-img-16-tn.jpg" alt="Image" class="img-fluid tm-img">
+                  <img src="./images/c9d8d0c-bumble-dee-depositphotos-1320.jpg" alt="Image" class="image">
                   <figcaption>
-                    <h2 class="tm-figure-title">Image <span><strong>Sixteen</strong></span></h2>
-                    <p class="tm-figure-description">Maecenas purus sem, lobortis id odio in sapien.</p>
+                    <h2 class="tm-figure-title">Новина</h2>
+                    <p class="tm-figure-description">Міністерство оборони випробовує українські безпілотні авіаційні комплекси</p>
                     <a href="./images/tm-img-16.jpg">View more</a>
                   </figcaption>
                 </figure>
@@ -183,6 +181,9 @@ export default {
 
 <style scoped>
 
+.image {
+  height: 466px;
+}
 
 html.gray .mfp-wrap,
 html.gray .cd-hero,
